@@ -3,7 +3,7 @@ import yt_dlp
 import os
 import shutil
 
-st.set_page_config(page_title="Baixador do Rafai", page_icon="🎵")
+st.set_page_config(page_title="Baixador de Músicas", page_icon="🎵")
 
 st.title("🎵 YouTube para MP3")
 st.write("Olá! Cole o link abaixo, escolha o tipo e clique no botão para baixar.")
